@@ -1,2 +1,0 @@
-# JenkinsGit
-Jenkins git integration
